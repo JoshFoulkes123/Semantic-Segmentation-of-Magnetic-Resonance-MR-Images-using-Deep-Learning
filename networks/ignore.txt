@@ -1,0 +1,6 @@
+This file is simply for this folder to exist.
+This folder is where the network is saved after the training process
+
+
+
+please ignore there is nothing in this file :)
