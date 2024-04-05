@@ -11,6 +11,8 @@ My personal part was the selection of the architecture of the CNN and the implem
 The files have been tested and do run acoordingly.
 
 **Task**:
+CW.pdf is the file given by the univesity.
+TLDR:
 This task is about semantic segmentation of magnetic resonance images using deep learning. The goal of the task is segmentation of the cardiovascular MR images into 4 catogories. These being the background region(black), the left ventricle region(white), the myocardium region (white grey) and the right ventricle region (dark grey).
 
 The goal is to create an automated methodology using Convolutional Neural Network (CNN) that is capable of segmenting the CMR image into the four regions. The choice of the architecture to use was up to us.
